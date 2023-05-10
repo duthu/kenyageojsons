@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "name": "Mental_Health_Facilities_-_Nairobi_",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+        { "type": "Feature", "properties": { "FACILITY": "Kenyatta National Hospital: Mental Health Department", "LATITUDE": -1.301301, "LONGITUDE": 36.8069899, "CONTACTS": "", "EMAIL": "knhadmin@knh.or.ke" }, "geometry": { "type": "Point", "coordinates": [36.8069899, -1.301301] } },
+        { "type": "Feature", "properties": { "FACILITY": "MP Shah Hospital: Mental Health Clinic", "LATITUDE": -1.2634829, "LONGITUDE": 36.8120972, "CONTACTS": "", "EMAIL": "info@mpshahhosp.org" }, "geometry": { "type": "Point", "coordinates": [36.8120972, -1.2634829] } },
+        { "type": "Feature", "properties": { "FACILITY": "Mathari National Teaching & Referral Hospital", "LATITUDE": -1.2608177, "LONGITUDE": 36.8465546, "CONTACTS": "" }, "geometry": { "type": "Point", "coordinates": [36.8465546, -1.2608177] } },
+        { "type": "Feature", "properties": { "FACILITY": "Nairobi West Hospital: Psychiatry Department", "LATITUDE": -1.3066017, "LONGITUDE": 36.825881, "CONTACTS": "0722 200 944", "EMAIL": "enquiry@nairobiwesthospital.com" }, "geometry": { "type": "Point", "coordinates": [36.825881, -1.3066017] } },
+        { "type": "Feature", "properties": { "FACILITY": "Chiromo Lane Medical Centre", "LATITUDE": -1.26923, "LONGITUDE": 36.8098713, "CONTACTS": "0729 359 501" }, "geometry": { "type": "Point", "coordinates": [36.8098713, -1.26923] } },
+        { "type": "Feature", "properties": { "FACILITY": "Oasis Mental Hospital", "LATITUDE": -1.238848, "LONGITUDE": 36.7844051, "CONTACTS": "0743 155 846.", "EMAIL": "info@omhl.co.ke." }, "geometry": { "type": "Point", "coordinates": [36.7844051, -1.238848] } },
+        { "type": "Feature", "properties": { "FACILITY": "Lifebridge Hospital", "LATITUDE": -1.2063037, "LONGITUDE": 36.8875926, "CONTACTS": "0725 133 444", "EMAIL": "lifebridgeke@gmail.com." }, "geometry": { "type": "Point", "coordinates": [36.8875926, -1.2063037] } },
+        { "type": "Feature", "properties": { "FACILITY": "Nairobi Mental Health Services", "LATITUDE": -1.2986041, "LONGITUDE": 36.8113583, "CONTACTS": "0738 905 182" }, "geometry": { "type": "Point", "coordinates": [36.8113583, -1.2986041] } }
+    ]
+}
